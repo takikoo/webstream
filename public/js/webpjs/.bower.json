@@ -1,0 +1,30 @@
+{
+  "name": "webpjs",
+  "authors": [
+    "Philippe Loctaux <loctauxphilippe@gmail.com>"
+  ],
+  "main": "webpjs-0.0.2.min.js",
+  "keywords": [
+    "webp",
+    "webpjs"
+  ],
+  "license": "BSD",
+  "homepage": "http://webpjs.appspot.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "f287b1a741",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f287b1a7413510cd20eba7801b16725821c3129f"
+  },
+  "_source": "https://github.com/loctauxphilippe/webpjs.git",
+  "_target": "*",
+  "_originalSource": "webpjs",
+  "_direct": true
+}

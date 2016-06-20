@@ -20,6 +20,6 @@ io.on('connection',function(socket){
   })
 });
 
-app.listen(port,function() {
+http.listen(port,function() {
   log.info('Server listening at port %s',port);
 });
